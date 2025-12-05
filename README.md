@@ -80,7 +80,7 @@ A sorted horizontal bar chart showing the highest revenue-generating products.
 
 ## 📁 Files Included
 
-- **Superstore Sample Dataset.xlsx** → Raw Data  
+- **Superstore Sample Dataset.csv** → Raw Data  
 - **Superstore Sales Analysis.xlsx** → Cleaned Data
 - **Superstore Sales Dashboard.png** → Main dashboard
 - **README.md** → Project documentation  
