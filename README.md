@@ -1,2 +1,124 @@
-# Superstore_Sales_Dashboard
-Professional Excel dashboard analyzing Superstore sales and profit using PivotTables, PivotCharts, KPI cards, and interactive slicers.
+# 📊 Superstore Sales Dashboard (Excel Project)
+
+A clean, professional Excel dashboard that analyzes **Sales, Profit, Orders, Quantity, and Product Performance** using the Superstore dataset.  
+This project demonstrates strong skills in **Excel analytics, data cleaning, PivotTables, PivotCharts, business insights, and dashboard design**.
+
+---
+
+## ⭐ Project Overview
+
+This dashboard provides an interactive and visually appealing summary of key performance metrics for Superstore.  
+It includes:
+
+- 📈 Monthly Sales Trend  
+- 🌎 Sales by Region  
+- 🧮 Profit by Sub-Category  
+- 🏆 Top 10 Products by Sales  
+- 🎯 KPI Cards (Total Sales, Total Profit, Quantity, Orders, AOV, Profit Margin)  
+- 🎛 Interactive Slicers for Region, Category, and Segment  
+
+Designed with a **clean & modern layout**, this dashboard helps business users quickly identify insights and trends.
+
+---
+
+## 🛠 Skills Demonstrated
+
+### ✔ Data Cleaning  
+- Removing duplicates  
+- Handling missing values  
+- Standardizing formats  
+- Converting ranges into Excel Tables  
+- Text cleanup using **TRIM**, **PROPER**, **CLEAN**, etc.
+
+### ✔ Data Analysis  
+- PivotTables  
+- Aggregations (SUM, COUNT, AVERAGE)  
+- Sorting & filtering  
+- Grouping dates (Months, Years)
+
+### ✔ Data Visualization  
+- PivotCharts (Line, Column, Bar)  
+- KPI Cards  
+- Slicers  
+- Chart formatting for a professional look  
+- Clean, minimalistic dashboard design
+
+### ✔ Business Intelligence Skills  
+- Trend analysis  
+- Profitability analysis  
+- Regional performance comparison  
+- Product-level insights  
+- Dashboard storytelling
+
+---
+
+## 📊 Dashboard Insights
+
+### 🔹 Monthly Sales Trend  
+Shows seasonality and monthly performance with a clean line chart.
+
+### 🔹 Sales by Region  
+Identifies top-performing regions (West, East) and underperforming ones.
+
+### 🔹 Profit by Sub-Category  
+Highlights which product groups generate the most profit and which result in losses.
+
+### 🔹 Top 10 Products by Sales  
+A sorted horizontal bar chart showing the highest revenue-generating products.
+
+### 🔹 KPI Summary  
+| KPI | Value |
+|-----|--------|
+| Total Sales | ₹ 22,96,919.49 |
+| Total Profit | ₹ 2,86,409.08 |
+| Profit Margin | 12% |
+| Total Quantity | 37,871 |
+| Total Orders | 5,009 |
+| AOV (Average Order Value) | ₹ 458.56 |
+
+---
+
+## 📁 Files Included
+
+- **Superstore Dashboard.xlsx** → Main dashboard  
+- **Cleaned Data Sheet** → Pre-processed dataset  
+- **PivotTables Sheet** → All calculations and PivotTables  
+- **README.md** → Project documentation  
+
+---
+
+## 🚀 How to Use
+
+1. Download the Excel file  
+2. Use slicers to filter by **Region**, **Segment**, and **Category**  
+3. Explore KPI cards and charts  
+4. Analyze trends and profitability  
+5. Use this project as portfolio evidence for data analyst roles  
+
+---
+
+## 🎯 Why This Project Matters
+
+This dashboard demonstrates competency in:
+
+- Real-world Excel reporting  
+- BI dashboards  
+- Data storytelling  
+- Pivot-based analytics  
+- Clean & modern visualization design  
+
+Perfect for showcasing skills during **interviews, internships, and job applications**.
+
+---
+
+## 📌 About the Dataset  
+This project uses the **Sample Superstore dataset**, a popular dataset for retail analytics and BI dashboards.
+
+---
+
+## 🙌 Author  
+**Aaditya Prasad**  
+Aspiring Data Analyst
+If you found this project helpful, please consider giving it a ⭐ to support my work!
+
+
