@@ -121,4 +121,9 @@ This project uses the **Sample Superstore dataset**, a popular dataset for retai
 Aspiring Data Analyst
 If you found this project helpful, please consider giving it a ⭐ to support my work!
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Superstore%20Sales%20Project/Superstore%20Dashboard.png" width="850">
+</p>
 
