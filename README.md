@@ -83,17 +83,7 @@ A sorted horizontal bar chart showing the highest revenue-generating products.
 - **Superstore Sample Dataset.csv** → Raw Data  
 - **Superstore Sales Analysis.xlsx** → Cleaned Data
 - **Superstore Sales Dashboard.png** → Main dashboard
-- **README.md** → Project documentation  
-
----
-
-## 🚀 How to Use
-
-1. Download the Excel file  
-2. Use slicers to filter by **Region**, **Segment**, and **Category**  
-3. Explore KPI cards and charts  
-4. Analyze trends and profitability  
-5. Use this project as portfolio evidence for data analyst roles  
+- **README.md** → Project documentation
 
 ---
 
@@ -105,14 +95,25 @@ This dashboard demonstrates competency in:
 - BI dashboards  
 - Data storytelling  
 - Pivot-based analytics  
-- Clean & modern visualization design  
-
-Perfect for showcasing skills during **interviews, internships, and job applications**.
+- Clean & modern visualization design
 
 ---
 
 ## 📌 About the Dataset  
 This project uses the **Sample Superstore dataset**, a popular dataset for retail analytics and BI dashboards.
+
+---
+
+⚠️ IMPORTANT  
+This project is for portfolio display only.  
+You are NOT allowed to:
+
+- Fork this repository  
+- Re-upload this repository  
+- Copy any part of this project  
+- Use this work for academic or commercial purposes  
+
+GitHub DMCA protection applies.
 
 ---
 
