@@ -122,9 +122,8 @@ GitHub DMCA protection applies.
 Aspiring Data Analyst
 If you found this project helpful, please consider giving it a ⭐ to support my work!
 
-## 📊 Dashboard Preview
+## 📊 Superstore Sales Dashboard
 
-<p align="center">
-  <img src="Superstore%20Sales%20Project/Superstore%20Sales%20Dashboard.png" width="850">
-</p>
+![Superstore Sales Dashboard](Superstore%20Sales%20Project/Superstore%20Sales%20Dashboard.png)
+
 
