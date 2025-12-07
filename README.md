@@ -125,6 +125,6 @@ If you found this project helpful, please consider giving it a ⭐ to support my
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src=
+  <img src="Superstore%20Sales%20Project/Superstore%20Sales%20Dashboard.png" width="850">
 </p>
 
