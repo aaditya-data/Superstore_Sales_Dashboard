@@ -10,10 +10,12 @@ This project demonstrates strong skills in **Excel analytics, data cleaning, Piv
 This dashboard provides an interactive and visually appealing summary of key performance metrics for Superstore.  
 It includes:
 
-- 📈 Monthly Sales Trend  
-- 🌎 Sales by Region  
-- 🧮 Profit by Sub-Category  
-- 🏆 Top 10 Products by Sales  
+- 📈 **Monthly Sales Trend (Line Chart)** – Shows seasonality and demand patterns across the year  
+- 🌎 **Sales by Region (Column Chart & Donut Chart)** – Compares regional performance and highlights contribution %  
+- 🧁 **Sales Distribution by Region (Donut Chart)** – Visual breakdown of region-wise sales share  
+- 🥧 **Sales by Category (Pie Chart)** – Shows category contribution (Furniture, Technology, Office Supplies)  
+- 🧮 **Profit by Sub-Category (Bar Chart)** – Identifies most/least profitable product groups  
+- 🏆 **Top 10 Products by Sales (Horizontal Bar Chart)** – Highlights best-performing products 
 - 🎯 KPI Cards (Total Sales, Total Profit, Quantity, Orders, AOV, Profit Margin)  
 - 🎛 Interactive Slicers for Region, Category, and Segment  
 
@@ -66,6 +68,11 @@ Highlights which product groups generate the most profit and which result in los
 ### 🔹 Top 10 Products by Sales  
 A sorted horizontal bar chart showing the highest revenue-generating products.
 
+### 🔹 Sales By Category % 
+A Pie Chart Showing % Performance Among Each Product Category
+
+---
+
 ### 🔹 KPI Summary  
 | KPI | Value |
 |-----|--------|
@@ -87,15 +94,18 @@ A sorted horizontal bar chart showing the highest revenue-generating products.
 
 ---
 
-## 🎯 Why This Project Matters
+## 🔍 Key Insights
 
-This dashboard demonstrates competency in:
+- **West Region is the top performer**, contributing the highest sales overall.  
+- **South Region has the lowest sales**, indicating potential improvement or market expansion opportunities.  
+- **Technology products and Office Supplies generate strong sales**, accounting for a large share of total revenue.  
+- **Profit varies widely by sub-category** — products like Copiers, Phones, Binders show high profit, while Tables and Bookcases show losses.  
+- **Top-selling products** significantly outperform others, showing a strong "long-tail" pattern in sales distribution.  
+- **Sales peak between September and December**, suggesting a strong seasonal trend and holiday demand.  
+- The **Central region has moderate sales but lower profit**, meaning higher operational costs or discounts.  
+- **Corporate Segment performs better than Home Office**, showing more consistent order volumes and profitability.
 
-- Real-world Excel reporting  
-- BI dashboards  
-- Data storytelling  
-- Pivot-based analytics  
-- Clean & modern visualization design
+These insights help identify high-value customer segments, profitable product categories, and time periods for targeted marketing.
 
 ---
 
@@ -122,8 +132,7 @@ GitHub DMCA protection applies.
 Aspiring Data Analyst
 If you found this project helpful, please consider giving it a ⭐ to support my work!
 
-## 📊 Superstore Sales Dashboard
+## 🖼️ Dashboard Preview
 
 ![Superstore Sales Dashboard](Superstore%20Sales%20Project/Superstore%20Sales%20Dashboard.png)
-
 
